@@ -1,0 +1,4 @@
+# + RoPE, still LayerNorm + GELU-MLP
+use_rope: true
+use_rmsnorm: false
+use_swiglu: false

@@ -1,0 +1,4 @@
+# Vanilla GPT-2 style block: learned pos-emb + LayerNorm + GELU-MLP
+use_rope: false
+use_rmsnorm: false
+use_swiglu: false

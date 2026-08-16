@@ -1,0 +1,4 @@
+# + RoPE + RMSNorm, still GELU-MLP
+use_rope: true
+use_rmsnorm: true
+use_swiglu: false

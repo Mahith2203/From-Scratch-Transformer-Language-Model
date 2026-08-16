@@ -1,0 +1,4 @@
+# Full SprintLM: RoPE + RMSNorm + SwiGLU-MLP
+use_rope: true
+use_rmsnorm: true
+use_swiglu: true
