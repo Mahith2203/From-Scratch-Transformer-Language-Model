@@ -28,7 +28,7 @@ latency/throughput benchmark.
 | +RoPE +RMSNorm | ✓ | ✓ | ✗ | 2.0987 | 8.16 |
 | full model | ✓ | ✓ | ✓ | **2.0002** | **7.39** |
 
-![Ablation comparison](outputs/ablation_comparison.png)
+![Ablation comparison](assets/ablation_comparison.png)
 
 **Interpretation.** RoPE gave the largest single-component jump over the
 learned-positional-embedding baseline (8.72 → 8.21 ppl, ~6%). RMSNorm's
